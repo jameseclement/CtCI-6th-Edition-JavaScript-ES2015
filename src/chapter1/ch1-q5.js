@@ -42,3 +42,15 @@ export function isOneOrLessAway(str1, str2) {
 
   return true;
 }
+
+
+
+
+// One Away
+
+function oneAway(str1, str2){
+  for (let i = 0, j =0; i < str1.length, j < str2.length; i++, j++) {
+    array[i]
+  }
+
+}
